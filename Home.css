@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+    background:url("homebg.jpg");
+    background-size: cover;
+}
+
+p{
+    color: aliceblue;
+    margin-right: 30%;
+}
+
+img{
+
+    margin-top: 20px;
+    height: 200px;
+    border-radius: 15px 40px;
+    margin-left: 20px;
+    opacity: 0.9;
+}

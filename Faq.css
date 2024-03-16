@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine;
+    background:url("homebg.jpg");
+    background-size: cover;
+}
+
+h1{
+    color: whitesmoke;
+    text-decoration: underline;
+}
